@@ -8,7 +8,7 @@ This GitHub showcases practical projects that reflect how data is used in real b
 
 ---
 
-## 🧰 Skills & Tools
+## Skills & Tools
 
 ![SQL](https://img.shields.io/badge/SQL-1f425f?style=for-the-badge)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge)
@@ -17,7 +17,7 @@ This GitHub showcases practical projects that reflect how data is used in real b
 
 ---
 
-## 📊 Featured Analytics Projects
+## Featured Analytics Projects
 
 ### Banking & Financial Analytics  
 *Focused on money flows, budgeting, risk, and transaction-level analysis.*
@@ -34,15 +34,6 @@ Developed a multi-page Power BI dashboard to analyze **banking transactions**, i
 
 **[Tailwind Traders – Power BI Analytics](https://github.com/yashhdubey03/tailwind-traders-powerbi-analytics)**  
 Delivered an end-to-end Power BI analytics solution for a retail business, covering **data preparation, modeling, KPI reporting, and executive dashboards** to evaluate sales and operational performance.
-
----
-
-## 📈 What These Projects Demonstrate
-
-- Strong understanding of **financial and transactional data**  
-- End-to-end **Power BI workflows** (data prep → modeling → DAX → dashboards)  
-- Business-focused insight generation, not just visuals  
-- Ability to design dashboards for **both analysts and decision-makers**
 
 ---
 
