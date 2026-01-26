@@ -22,9 +22,11 @@ This GitHub showcases practical projects that reflect how data is used in real b
 ### Finance & Financial Analytics
 
 • **[Budget Monitoring & Variance Analysis](https://github.com/yashhdubey03/budget-monitoring-variance-analysis-powerbi)** — analyzed actual vs budgeted income and expenses across projects and time periods to surface cost overruns, budget utilization, and financial performance trends.
+
 Tools: Power BI, DAX, Power Query
 
 • **[Bank Transaction Monitoring & Fraud Analysis](https://github.com/yashhdubey03/bank-transaction-monitoring-fraud-analysis)** — developed a multi-page dashboard to analyze banking transactions, flag unusual patterns, and enable transaction-level drill-through for risk and behavioral analysis.
+
 Tools: Power BI, Power Query, DAX
 
 
@@ -32,6 +34,7 @@ Tools: Power BI, Power Query, DAX
 ### Retail & Business Performance Analytics
 
 • **[Tailwind Traders – Sales & Profit Analytics](https://github.com/yashhdubey03/tailwind-traders-powerbi-analytics)** — delivered an end-to-end analytics solution covering data preparation, modeling, KPI reporting, and executive dashboards to evaluate sales performance across products and regions.
+
 Tools: Excel, Power BI, DAX, Python
 
 ---
