@@ -8,7 +8,7 @@ This GitHub showcases practical projects that reflect how data is used in real b
 
 ---
 
-## Skills & Tools
+## Analytics Toolkit
 
 ![SQL](https://img.shields.io/badge/SQL-1f425f?style=for-the-badge)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge)
@@ -17,29 +17,29 @@ This GitHub showcases practical projects that reflect how data is used in real b
 
 ---
 
-## Featured Analytics Projects
+## Analytics Projects
 
-### Banking & Financial Analytics  
-*Focused on money flows, budgeting, risk, and transaction-level analysis.*
+Finance & Financial Analytics
 
-**[Budget Monitoring & Variance Analysis – Power BI](https://github.com/yashhdubey03/budget-monitoring-variance-analysis-powerbi)**  
-Analyzed **actual vs budgeted income and expenses** across projects and time periods, highlighting cost variances, budget utilization, and financial performance trends.
+• Budget Monitoring & Variance Analysis — analyzed actual vs budgeted income and expenses across projects and time periods to surface cost overruns, budget utilization, and financial performance trends.
+Tools: Power BI, DAX, Power Query
 
-**[Bank Transaction Monitoring & Fraud Analysis](https://github.com/yashhdubey03/bank-transaction-monitoring-fraud-analysis)**  
-Developed a multi-page Power BI dashboard to analyze **banking transactions**, identify potential fraud patterns, and enable **transaction-level drill-through** for behavioral and risk analysis.
+• Bank Transaction Monitoring & Fraud Analysis — developed a multi-page dashboard to analyze banking transactions, flag unusual patterns, and enable transaction-level drill-through for risk and behavioral analysis.
+Tools: Power BI, Power Query, DAX
 
+Retail & Business Performance Analytics
 
-### Retail & Business Performance Analytics  
-*Focused on revenue, operations, and executive-level reporting.*
+• Tailwind Traders – Sales & Profit Analytics — delivered an end-to-end analytics solution covering data preparation, modeling, KPI reporting, and executive dashboards to evaluate sales performance across products and regions.
+Tools: Excel, Power BI, DAX, Python
 
-**[Tailwind Traders – Power BI Analytics](https://github.com/yashhdubey03/tailwind-traders-powerbi-analytics)**  
-Delivered an end-to-end Power BI analytics solution for a retail business, covering **data preparation, modeling, KPI reporting, and executive dashboards** to evaluate sales and operational performance.
+• Online Retail Analytics (Job Simulation) — cleaned and analyzed large-scale retail transaction data to study revenue seasonality, top markets, high-value customers, and global demand patterns.
+Tools: Power BI, Power Query, DAX
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-dubey2025/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK-HERE)
 
 ---
 
