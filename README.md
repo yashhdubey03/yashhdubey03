@@ -27,6 +27,7 @@ Tools: Power BI, DAX, Power Query
 • **[Bank Transaction Monitoring & Fraud Analysis](https://github.com/yashhdubey03/bank-transaction-monitoring-fraud-analysis)** — developed a multi-page dashboard to analyze banking transactions, flag unusual patterns, and enable transaction-level drill-through for risk and behavioral analysis.
 Tools: Power BI, Power Query, DAX
 
+
 ### Retail & Business Performance Analytics
 
 • **[Tailwind Traders – Sales & Profit Analytics](https://github.com/yashhdubey03/tailwind-traders-powerbi-analytics)** – Sales & Profit Analytics — delivered an end-to-end analytics solution covering data preparation, modeling, KPI reporting, and executive dashboards to evaluate sales performance across products and regions.
