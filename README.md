@@ -28,9 +28,10 @@ Tools: Power BI, DAX, Power Query
 Tools: Power BI, Power Query, DAX
 
 
+
 ### Retail & Business Performance Analytics
 
-• **[Tailwind Traders – Sales & Profit Analytics](https://github.com/yashhdubey03/tailwind-traders-powerbi-analytics)** – Sales & Profit Analytics — delivered an end-to-end analytics solution covering data preparation, modeling, KPI reporting, and executive dashboards to evaluate sales performance across products and regions.
+• **[Tailwind Traders – Sales & Profit Analytics](https://github.com/yashhdubey03/tailwind-traders-powerbi-analytics)** — delivered an end-to-end analytics solution covering data preparation, modeling, KPI reporting, and executive dashboards to evaluate sales performance across products and regions.
 Tools: Excel, Power BI, DAX, Python
 
 ---
