@@ -21,6 +21,10 @@ This GitHub showcases practical projects that reflect how data is used in real b
 
 ### Finance & Financial Analytics
 
+• **[Bank Transaction Risk Analysis (SQL + Python)](https://github.com/yashhdubey03/bank-transaction-risk-analysis)** — analyzed over 6.3M banking transactions to design and refine a rule-based risk monitoring framework. Implemented SQL-driven screening logic, enhanced risk classification using balance depletion behavior, and translated transaction-level findings into structured business insights.
+
+Tools: SQL (SQLite), Python (Pandas, Matplotlib), Jupyter Notebook
+
 • **[Budget Monitoring & Variance Analysis](https://github.com/yashhdubey03/budget-monitoring-variance-analysis-powerbi)** — analyzed actual vs budgeted income and expenses across projects and time periods to surface cost overruns, budget utilization, and financial performance trends.
 
 Tools: Power BI, DAX, Power Query
