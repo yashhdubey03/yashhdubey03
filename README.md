@@ -21,7 +21,7 @@ This GitHub showcases practical projects that reflect how data is used in real b
 
 ### Finance & Financial Analytics
 
-• **[Bank Transaction Risk Analysis (SQL + Python)](https://github.com/yashhdubey03/bank-transaction-risk-analysis)** — analyzed over 6.3M banking transactions to design and refine a rule-based risk monitoring framework. Implemented SQL-driven screening logic, enhanced risk classification using balance depletion behavior, and translated transaction-level findings into structured business insights.
+• **[Bank Transaction Risk Analysis (SQL + Python)](https://github.com/yashhdubey03/bank-risk-analysis-sql)** — analyzed over 6.3M banking transactions to design and refine a rule-based risk monitoring framework. Implemented SQL-driven screening logic, enhanced risk classification using balance depletion behavior, and translated transaction-level findings into structured business insights.
 
 Tools: SQL (SQLite), Python (Pandas, Matplotlib), Jupyter Notebook
 
