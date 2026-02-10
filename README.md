@@ -25,14 +25,13 @@ This GitHub showcases practical projects that reflect how data is used in real b
 
 Tools: SQL (SQLite), Python (Pandas, Matplotlib), Jupyter Notebook
 
+• **[Banking Customer Churn Analysis (Python)](https://github.com/yashhdubey03/banking-customer-churn-analysis)** — built an end-to-end churn analytics pipeline by aggregating multi-source banking data, engineering engagement and service interaction features, and conducting exploratory analysis to uncover subtle behavioral attrition patterns. Phase 2 predictive modeling in progress.
+
+Tools: Python (Pandas, NumPy, Seaborn, Matplotlib)
+
 • **[Budget Monitoring & Variance Analysis](https://github.com/yashhdubey03/budget-monitoring-variance-analysis-powerbi)** — analyzed actual vs budgeted income and expenses across projects and time periods to surface cost overruns, budget utilization, and financial performance trends.
 
 Tools: Power BI, DAX, Power Query
-
-• **[Bank Transaction Monitoring & Fraud Analysis](https://github.com/yashhdubey03/bank-transaction-monitoring-fraud-analysis)** — developed a multi-page dashboard to analyze banking transactions, flag unusual patterns, and enable transaction-level drill-through for risk and behavioral analysis.
-
-Tools: Power BI, Power Query, DAX
-
 
 
 ### Retail & Business Performance Analytics
