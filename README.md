@@ -1,8 +1,8 @@
 ## Hi — I’m Yash Dubey 👋  
 
-I’m an aspiring Data Analyst who enjoys working with real-world data to understand business performance and decision-making. My experience comes mainly from hands-on projects where I’ve turned messy, raw data into clear, decision-ready insights.
+I'm a Data Analytics fresher who enjoys turning raw data into meaningful insights that support better business decisions. I work across the analytics lifecycle, from data preparation and validation to transformation, analysis, and visualization.
 
-I work end to end across the analytics workflow, from data preparation and validation to analysis and visualization. My projects span business, finance, retail, and transaction-level analytics, with a strong focus on accuracy, structure, and clarity.
+My experience and projects span banking and retail analytics, with hands-on work in SQL, Python, PySpark, Databricks, and Power BI. I'm particularly interested in customer behaviour, business performance, and uncovering patterns in large datasets.
 
 This GitHub showcases practical projects that reflect how data is used in real business contexts to track performance, identify patterns, and support informed decisions.
 
