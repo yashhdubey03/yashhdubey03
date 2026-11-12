@@ -1,10 +1,10 @@
-## Hi — I’m Yash Dubey 👋  
+# Hi — I'm Yash Dubey 👋
 
-I'm a Data Analytics fresher who enjoys turning raw data into meaningful insights that support better business decisions. I work across the analytics lifecycle, from data preparation and validation to transformation, analysis, and visualization.
+I'm a Data Analyst with 1 year of experience across banking and business analytics, interested in turning raw data into meaningful insights that support better business decisions. My work spans the analytics lifecycle, from data preparation and validation to transformation, analysis, and visualization.
 
-My experience and projects span banking and retail analytics, with hands-on work in SQL, Python, PySpark, Databricks, and Power BI. I'm particularly interested in customer behaviour, business performance, and uncovering patterns in large datasets.
+I work with SQL, Python, PySpark, Databricks, and Power BI, with practical experience in large-scale data processing, reporting automation, customer analytics, and business performance analysis.
 
-This GitHub showcases practical projects that reflect how data is used in real business contexts to track performance, identify patterns, and support informed decisions.
+This GitHub showcases projects across banking, retail, and financial analytics, demonstrating how data can be transformed into actionable insights through analytical solutions and interactive dashboards.
 
 ---
 
@@ -24,31 +24,34 @@ This GitHub showcases practical projects that reflect how data is used in real b
 
 ### Banking & Financial Analytics
 
-• **[Bank Transaction Risk Analysis (SQL + Python)](https://github.com/yashhdubey03/bank-risk-analysis-sql)** — analyzed over 6.3M banking transactions to design and refine a rule-based risk monitoring framework. Implemented SQL-driven screening logic, enhanced risk classification using balance depletion behavior, and translated transaction-level findings into structured business insights.
+- **[Bank Transaction Risk Analysis (SQL + Python)](https://github.com/yashhdubey03/bank-risk-analysis-sql)** — analysed over 6.3M banking transactions to design and refine a rule-based risk monitoring framework. Implemented SQL-driven screening logic, enhanced risk classification using balance depletion behaviour, and translated transaction-level findings into structured business insights.
 
-Tools: SQL (SQLite), Python (Pandas, Matplotlib), Jupyter Notebook
+  Tools: SQL (SQLite), Python (Pandas, Matplotlib), Jupyter Notebook
 
-• **[Banking Customer Churn Analysis (Python)](https://github.com/yashhdubey03/banking-customer-churn-analysis)** — built an end-to-end churn analytics pipeline by aggregating multi-source banking data, engineering engagement and service interaction features, and conducting exploratory analysis to uncover subtle behavioral attrition patterns. Phase 2 predictive modeling in progress.
+- **[Banking Customer Churn Analysis (Python)](https://github.com/yashhdubey03/banking-customer-churn-analysis)** — built an end-to-end churn analytics pipeline by aggregating multi-source banking data, engineering engagement and service interaction features, and conducting exploratory analysis to uncover behavioural attrition patterns. Phase 2 predictive modelling in progress.
 
-Tools: Python (Pandas, NumPy, Seaborn, Matplotlib)
+  Tools: Python (Pandas, NumPy, Seaborn, Matplotlib)
 
-• **[Budget Monitoring & Variance Analysis](https://github.com/yashhdubey03/budget-monitoring-variance-analysis-powerbi)** — analyzed actual vs budgeted income and expenses across projects and time periods to surface cost overruns, budget utilization, and financial performance trends.
+- **[Budget Monitoring & Variance Analysis](https://github.com/yashhdubey03/budget-monitoring-variance-analysis-powerbi)** — analysed actual versus budgeted income and expenses across projects and time periods to identify cost overruns, budget utilisation, and financial performance trends.
 
-Tools: Power BI, DAX, Power Query
-
+  Tools: Power BI, DAX, Power Query
 
 ### Retail & Business Performance Analytics
 
-• **[Tailwind Traders – Sales & Profit Analytics](https://github.com/yashhdubey03/tailwind-traders-powerbi-analytics)** — delivered an end-to-end analytics solution covering data preparation, modeling, KPI reporting, and executive dashboards to evaluate sales performance across products and regions.
+- **[Fashion Retail Analytics Lakehouse (Databricks)](https://github.com/yashhdubey03/fashion-retail-analytics-lakehouse)** — implemented an end-to-end Medallion Architecture (Bronze → Silver → Gold) Lakehouse using Databricks, PySpark, and Delta Lake to process 850K+ synthetic retail records. Developed 10+ SQL analytical models covering sales performance, customer segmentation, cohort and inventory analysis, and marketing campaign effectiveness, alongside 3 AI/BI dashboards.
 
-Tools: Excel, Power BI, DAX, Python
+  Tools: Databricks, PySpark, Delta Lake, SQL, AI/BI Dashboards
+
+- **[Tailwind Traders – Sales & Profit Analytics](https://github.com/yashhdubey03/tailwind-traders-powerbi-analytics)** — delivered an end-to-end analytics solution covering data preparation, modelling, KPI reporting, and executive dashboards to evaluate sales performance across products and regions.
+
+  Tools: Excel, Power BI, DAX, Python
 
 ---
 
-##  Let’s Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-dubey2025/)
 
 ---
 
-⭐*Good analytics turns data into clarity — and clarity into better decisions.*
+⭐ *Good analytics turns data into clarity — and clarity into better decisions.*
